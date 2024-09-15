@@ -1,4 +1,4 @@
-## A Simple Apllication Programming Interface (API) Product Database Management
+# A Simple Application Programming Interface (API) Product Database Management
 ## PROJECT OVERVIEW
 - This project is a simple API Product databse Management built using Node.js, Express, and MongoDB,
 - It allows you to perform CRUD (Create, Read, Update, Delete) operations on a products database,
@@ -53,3 +53,7 @@ DB_TABLE= "my_collection_name"
 - I ensure MongoDB is running and accessible at the URL define in my `.env` file.
 - I ensure that the server is running on the defined port.
 - I Verify sending the correct request type `GET, POST` and including the necessary body parameters when testing the endpoint.
+
+## License
+This project is open-source and available under the MIT License.
+
